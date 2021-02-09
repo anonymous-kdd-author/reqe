@@ -1,0 +1,39 @@
+number of nodes: 17191
+centrality:  ['closeness', 'betweenness']
+loaded centrality!
+centrality:  ['closeness']
+loaded centrality!
+centrality:  ['kcore', 'closeness', 'betweenness']
+loaded centrality!
+(17192, 32)
+(17192, 96)
+Initialized embedding in 3.6358 minutes
+val acc: 0.8703 (0.0065), test acc: 0.8692 (0.0075)
+val acc: 0.8735 (0.0069), test acc: 0.8741 (0.0072)
+val acc: 0.8741 (0.0054), test acc: 0.8762 (0.0062)
+val acc: 0.8763 (0.0060), test acc: 0.8758 (0.0059)
+val acc: 0.8772 (0.0066), test acc: 0.8787 (0.0061)
+val acc: 0.8798 (0.0049), test acc: 0.8791 (0.0067)
+val acc: 0.8833 (0.0062), test acc: 0.8811 (0.0055)
+val acc: 0.8850 (0.0078), test acc: 0.8824 (0.0065)
+val acc: 0.8862 (0.0062), test acc: 0.8856 (0.0070)
+val acc: 0.8871 (0.0062), test acc: 0.8868 (0.0058)
+val acc: 0.8897 (0.0062), test acc: 0.8895 (0.0064)
+val acc: 0.8908 (0.0059), test acc: 0.8897 (0.0060)
+val acc: 0.8909 (0.0060), test acc: 0.8923 (0.0050)
+val acc: 0.8938 (0.0057), test acc: 0.8933 (0.0064)
+val acc: 0.8929 (0.0062), test acc: 0.8931 (0.0061)
+val acc: 0.8927 (0.0058), test acc: 0.8948 (0.0054)
+val acc: 0.8954 (0.0052), test acc: 0.8934 (0.0056)
+val acc: 0.8963 (0.0066), test acc: 0.8959 (0.0073)
+val acc: 0.8976 (0.0058), test acc: 0.8974 (0.0063)
+val acc: 0.8989 (0.0052), test acc: 0.8972 (0.0055)
+val acc: 0.8990 (0.0058), test acc: 0.8992 (0.0059)
+val acc: 0.9003 (0.0057), test acc: 0.8984 (0.0066)
+val acc: 0.8989 (0.0064), test acc: 0.9013 (0.0061)
+val acc: 0.9007 (0.0064), test acc: 0.9007 (0.0053)
+val acc: 0.9004 (0.0057), test acc: 0.9020 (0.0054)
+val acc: 0.9010 (0.0059), test acc: 0.9016 (0.0056)
+val acc: 0.9000 (0.0058), test acc: 0.9021 (0.0053)
+val acc: 0.9029 (0.0057), test acc: 0.9015 (0.0051)
+val acc: 0.9020 (0.0045), test acc: 0.9027 (0.0043)
